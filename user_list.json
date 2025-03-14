@@ -1,0 +1,64 @@
+[
+    {
+        "name": "admin",
+        "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "user_type": "admin",
+        "id": "08658cf2-39dc-4afd-9d58-931fbf6e7e34",
+        "player_list": [],
+        "team_list": []
+    },
+    {
+        "name": "user",
+        "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "user_type": "user",
+        "id": "08658cf2-39dc-4afd-9d58-931fbf6e7e34",
+        "player_list": [
+            {
+                "name": "Jude Bellingham",
+                "number": "71",
+                "pos": "CB",
+                "contract": 3,
+                "team": "Real Madrid",
+                "appear": 2,
+                "goals": 2,
+                "assists": 3,
+                "achievements": "",
+                "red": 0,
+                "yellow": 2,
+                "picture": "D:\\DaoTheKhai_K234111339\\Final_term_project\\player_image\\default.jpg"
+            },
+            {
+                "name": "Altay Bayindir",
+                "number": "62",
+                "pos": "GK",
+                "contract": 2,
+                "team": "Manchester United",
+                "appear": 14,
+                "goals": 0,
+                "assists": 0,
+                "achievements": "",
+                "red": 0,
+                "yellow": 0,
+                "picture": "D:\\DaoTheKhai_K234111339\\Final_term_project\\player_image\\default.jpg"
+            },
+            {
+                "name": "Nicol\u00f2 Fagioli",
+                "number": "21",
+                "pos": "CM",
+                "contract": 5,
+                "team": "Juventus",
+                "appear": 5,
+                "goals": 6,
+                "assists": 0,
+                "achievements": 0,
+                "red": 0,
+                "yellow": 0,
+                "picture": "D:\\DaoTheKhai_K234111339\\Final_term_project\\player_image\\default.jpg"
+            }
+        ],
+        "team_list": [
+            "Real Madrid",
+            "Bayern Munich"
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "date": "13/03/2025",
+        "teams": [
+            "Barcelona",
+            "Manchester United"
+        ],
+        "score": [
+            3,
+            1
+        ],
+        "lineup1": [
+            "Marc-Andr\u00e9 ter Stegen",
+            "Jo\u00e3o Cancelo",
+            "Ronald Ara\u00fajo",
+            "Jules Kound\u00e9",
+            "Alejandro Balde",
+            "Frenkie de Jong",
+            "Pedri",
+            "Gavi",
+            "Ilkay G\u00fcndogan",
+            "Robert Lewandowski",
+            "Lamine Yamal"
+        ],
+        "lineup2": [
+            "Andr\u00e9 Onana",
+            "Diogo Dalot",
+            "Lisandro Mart\u00ednez",
+            "Harry Maguire",
+            "Luke Shaw",
+            "Casemiro",
+            "Bruno Fernandes",
+            "Kobbie Mainoo",
+            "Christian Eriksen",
+            "Marcus Rashford",
+            "Rasmus H\u00f8jlund"
+        ],
+        "scorer_1": [
+            "Pedri",
+            "Gavi",
+            "Gavi"
+        ],
+        "scorer_2": [
+            "Bruno Fernandes"
+        ],
+        "assistor_1": [
+            "Pedri",
+            "Pedri",
+            "Gavi"
+        ],
+        "assistor_2": [],
+        "Red": [
+            0,
+            0
+        ],
+        "Yellow": [
+            0,
+            0
+        ],
+        "Subs1": [],
+        "Subs2": []
+    },
+    {
+        "date": "12/03/2025",
+        "teams": [
+            "Bayern Munich",
+            "Juventus"
+        ],
+        "score": [
+            4,
+            0
+        ],
+        "lineup1": [
+            "Manuel Neuer",
+            "Alphonso Davies",
+            "Dayot Upamecano",
+            "Kim Min-jae",
+            "Joshua Kimmich",
+            "Leon Goretzka",
+            "Thomas M\u00fcller",
+            "Jamal Musiala",
+            "Leroy San\u00e9",
+            "Harry Kane",
+            "Serge Gnabry"
+        ],
+        "lineup2": [
+            "Michele Di Gregorio",
+            "Federico Gatti",
+            "Danilo",
+            "Gleison Bremer",
+            "Juan Cabal",
+            "Weston McKennie",
+            "Manuel Locatelli",
+            "Nicol\u00f2 Fagioli",
+            "Teun Koopmeiners",
+            "Du\u0161an Vlahovi\u0107",
+            "Federico Chiesa"
+        ],
+        "scorer_1": [
+            "Jamal Musiala",
+            "Jamal Musiala",
+            "Jamal Musiala",
+            "Jamal Musiala"
+        ],
+        "scorer_2": [],
+        "assistor_1": [
+            "Leroy San\u00e9",
+            "Leroy San\u00e9"
+        ],
+        "assistor_2": [],
+        "Red": [
+            0,
+            0
+        ],
+        "Yellow": [
+            0,
+            0
+        ],
+        "Subs1": [],
+        "Subs2": []
+    },
+    {
+        "date": "13/03/2025",
+        "teams": [
+            "Juventus",
+            "Barcelona"
+        ],
+        "score": [
+            1,
+            0
+        ],
+        "lineup1": [
+            "Michele Di Gregorio",
+            "Federico Gatti",
+            "Danilo",
+            "Gleison Bremer",
+            "Juan Cabal",
+            "Weston McKennie",
+            "Manuel Locatelli",
+            "Nicol\u00f2 Fagioli",
+            "Teun Koopmeiners",
+            "Du\u0161an Vlahovi\u0107",
+            "Federico Chiesa"
+        ],
+        "lineup2": [
+            "Marc-Andr\u00e9 ter Stegen",
+            "Jo\u00e3o Cancelo",
+            "Ronald Ara\u00fajo",
+            "Jules Kound\u00e9",
+            "Alejandro Balde",
+            "Frenkie de Jong",
+            "Pedri",
+            "Gavi",
+            "Ilkay G\u00fcndogan",
+            "Robert Lewandowski",
+            "Lamine Yamal"
+        ],
+        "scorer_1": [
+            "Manuel Locatelli"
+        ],
+        "scorer_2": [],
+        "assistor_1": [],
+        "assistor_2": [],
+        "Red": [
+            1,
+            1
+        ],
+        "Yellow": [
+            1,
+            1
+        ],
+        "Subs1": [
+            "Douglas Luiz",
+            "Nicolo Savona"
+        ],
+        "Subs2": [
+            "Dani Olmo"
+        ]
+    },
+    {
+        "date": "13/03/2025",
+        "teams": [
+            "Paris Saint-Germain",
+            "Manchester United"
+        ],
+        "score": [
+            3,
+            0
+        ],
+        "lineup1": [
+            "Gianluigi Donnarumma",
+            "Achraf Hakimi",
+            "Marquinhos",
+            "Milan \u0160kriniar",
+            "Nuno Mendes",
+            "Vitinha",
+            "Fabi\u00e1n Ruiz",
+            "Warren Za\u00efre-Emery",
+            "Marco Asensio",
+            "Kylian Mbapp\u00e9",
+            "Ousmane Demb\u00e9l\u00e9"
+        ],
+        "lineup2": [
+            "Andr\u00e9 Onana",
+            "Diogo Dalot",
+            "Lisandro Mart\u00ednez",
+            "Harry Maguire",
+            "Luke Shaw",
+            "Casemiro",
+            "Bruno Fernandes",
+            "Kobbie Mainoo",
+            "Christian Eriksen",
+            "Marcus Rashford",
+            "Rasmus H\u00f8jlund"
+        ],
+        "scorer_1": [
+            "Kylian Mbapp\u00e9",
+            "Kylian Mbapp\u00e9",
+            "Kylian Mbapp\u00e9"
+        ],
+        "scorer_2": [],
+        "assistor_1": [
+            "Warren Za\u00efre-Emery",
+            "Warren Za\u00efre-Emery"
+        ],
+        "assistor_2": [],
+        "Red": [
+            0,
+            0
+        ],
+        "Yellow": [
+            0,
+            0
+        ],
+        "Subs1": [
+            "Willian Pacho",
+            "Jo\u00e3o Neves",
+            "Lee Kang-in",
+            "Nordi Mukiele",
+            "Presnel Kimpembe"
+        ],
+        "Subs2": [
+            "Matthijs de Ligt",
+            "Jonny Evans",
+            "Amad Diallo",
+            "Joshua Zirkzee",
+            "Tyrell Malacia"
+        ]
+    },
+    {
+        "date": "13/03/2025",
+        "teams": [
+            "Juventus",
+            "Manchester United"
+        ],
+        "score": [
+            3,
+            0
+        ],
+        "lineup1": [
+            "Michele Di Gregorio",
+            "Federico Gatti",
+            "Danilo",
+            "Gleison Bremer",
+            "Juan Cabal",
+            "Weston McKennie",
+            "Manuel Locatelli",
+            "Nicol\u00f2 Fagioli",
+            "Teun Koopmeiners",
+            "Du\u0161an Vlahovi\u0107",
+            "Federico Chiesa"
+        ],
+        "lineup2": [
+            "Andr\u00e9 Onana",
+            "Diogo Dalot",
+            "Lisandro Mart\u00ednez",
+            "Harry Maguire",
+            "Luke Shaw",
+            "Casemiro",
+            "Bruno Fernandes",
+            "Kobbie Mainoo",
+            "Christian Eriksen",
+            "Marcus Rashford",
+            "Rasmus H\u00f8jlund"
+        ],
+        "scorer_1": [
+            "Nicol\u00f2 Fagioli",
+            "Nicol\u00f2 Fagioli",
+            "Nicol\u00f2 Fagioli"
+        ],
+        "scorer_2": [],
+        "assistor_1": [
+            "Teun Koopmeiners",
+            "Teun Koopmeiners",
+            "Du\u0161an Vlahovi\u0107"
+        ],
+        "assistor_2": [],
+        "Red": [
+            0,
+            0
+        ],
+        "Yellow": [
+            0,
+            0
+        ],
+        "Subs1": [],
+        "Subs2": [
+            "Matthijs de Ligt",
+            "Jonny Evans",
+            "Amad Diallo",
+            "Joshua Zirkzee",
+            "Tyrell Malacia"
+        ]
+    },
+    {
+        "date": "13/03/2025",
+        "teams": [
+            "Juventus",
+            "Bayern Munich"
+        ],
+        "score": [
+            4,
+            0
+        ],
+        "lineup1": [
+            "Michele Di Gregorio",
+            "Federico Gatti",
+            "Danilo",
+            "Gleison Bremer",
+            "Juan Cabal",
+            "Weston McKennie",
+            "Manuel Locatelli",
+            "Nicol\u00f2 Fagioli",
+            "Teun Koopmeiners",
+            "Du\u0161an Vlahovi\u0107",
+            "Federico Chiesa"
+        ],
+        "lineup2": [
+            "Manuel Neuer",
+            "Alphonso Davies",
+            "Dayot Upamecano",
+            "Kim Min-jae",
+            "Joshua Kimmich",
+            "Leon Goretzka",
+            "Thomas M\u00fcller",
+            "Jamal Musiala",
+            "Leroy San\u00e9",
+            "Harry Kane",
+            "Serge Gnabry"
+        ],
+        "scorer_1": [
+            "Manuel Locatelli",
+            "Nicol\u00f2 Fagioli",
+            "Nicol\u00f2 Fagioli",
+            "Nicol\u00f2 Fagioli"
+        ],
+        "scorer_2": [],
+        "assistor_1": [],
+        "assistor_2": [],
+        "Red": [
+            0,
+            0
+        ],
+        "Yellow": [
+            0,
+            0
+        ],
+        "Subs1": [
+            "Douglas Luiz",
+            "Nicolo Savona"
+        ],
+        "Subs2": []
+    }
+]
